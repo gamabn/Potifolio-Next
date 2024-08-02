@@ -1,4 +1,6 @@
+
 import styles from "./page.module.scss";
+import Projetos from "../Projetos/page";
 
 import Link from "next/link";
 
@@ -16,7 +18,7 @@ export function Header() {
                         <Link href="/Sobre">Sobre</Link>
                     </li>
                     <li>
-                        <Link href="/Projeto">Projetos</Link>
+                        <Link href="/Projetos">Projetos</Link>
                     </li>
                     <li>
                         <Link href="/Contato">Contato</Link>

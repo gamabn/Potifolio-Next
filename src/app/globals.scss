@@ -14,6 +14,7 @@
     --gray-100: #8a8a8a;
     --green-900: #3fffa3;
     --red-900: #ff3f4b;
+    --now-700:#cd5ff8;
    }
   
    button{
@@ -37,7 +38,7 @@
   
 
 
-   .Typewriter__wrapper {
+   /*.Typewriter__wrapper {
     font-size: 2.2em !important;
     color: #be6adf !important;
     font-weight: 600 !important;
@@ -45,21 +46,21 @@
   .Typewriter__cursor {
     font-size: 2.4em !important;
     color: #b562d6 !important;
-  }
+  }*/
   
    @media(max-width: 720px){
     html{
       font-size: 87.6%;
     }
 
-    .Typewriter__wrapper {
+   /* .Typewriter__wrapper {
         font-size: 1.4em !important;
         font-weight: 500 !important;
         position: absolute !important;
       }
       .Typewriter__cursor {
         display: none !important;
-      }
+      }*/
    }
    @media(max-width: 1080px){
     html{

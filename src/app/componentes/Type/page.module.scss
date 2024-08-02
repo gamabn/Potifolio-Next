@@ -1,0 +1,11 @@
+.type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    span{
+        color:var(--now-700);
+        font-size: 2.0rem;
+        font-weight: bolder;
+    }
+}
